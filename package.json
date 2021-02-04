@@ -1,0 +1,11 @@
+{
+  "name": "next-rpl",
+  "version": "1.0.0",
+  "description": "cli tool for next project to generate components and screens",
+  "main": "index.js",
+  "author": "@brenta1283",
+  "license": "MIT",
+  "dependencies": {
+    "node-repl": "^2.0.2"
+  }
+}
